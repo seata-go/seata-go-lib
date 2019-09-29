@@ -1,0 +1,1 @@
+# seata-go-lib: a golang lib for [seata](https://github.com/seata/seata)
